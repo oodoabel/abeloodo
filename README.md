@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Austin Ameh by name but people like to call me the Arewa Geek
-- 👀 I’m interested in web dev and blockchain technologies
+- 👀 I’m interested in web dev and innovative technologies
 - 🌱 I’m currently learning blockchain dev
 - 💞️ I’m looking to collaborate on amazing projects
 - 📫 How to reach me arewageek@gmail.com
